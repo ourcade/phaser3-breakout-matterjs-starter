@@ -20,7 +20,7 @@ npm run start
 
 If you don't have `git-lfs` installed then get it here: https://git-lfs.github.com
 
-All the image and audio files in this repository is stored with `git-lfs`. Alternatively you can download a zip instead.
+All the image and audio files in this repository is stored with `git-lfs`. Alternatively you can [download a zip from the releases tab](https://github.com/ourcade/phaser3-breakout-matterjs-starter/releases/tag/latest).
 
 ## Credits
 
