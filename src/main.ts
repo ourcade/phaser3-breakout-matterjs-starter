@@ -25,7 +25,11 @@ const config: Phaser.Types.Core.GameConfig = {
 			}
 		}
 	},
-	scene: [Preloader, Game, GameOver]
+	scene: [Preloader, Game, GameOver],
+	scale: {
+		mode: Phaser.Scale.FIT,
+		autoCenter: Phaser.Scale.CENTER_BOTH
+	}
 }
 
 export default new Phaser.Game(config)
