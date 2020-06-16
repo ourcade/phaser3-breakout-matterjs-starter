@@ -9,6 +9,8 @@ This is a Breakout game starter project for the Phaser game framework using Matt
 
 [The code corresponds to a 6 part series on YouTube](https://www.youtube.com/playlist?list=PLumYWZ2t7CRvo7NY9BG2BTdB--R7OtonD) demonstrating how it was made.
 
+[Check out the demo here](https://ourcade.co/templates/breakout-matterjs-starter).
+
 ## Getting Started
 
 Clone this repository with `git-lfs` and run:
